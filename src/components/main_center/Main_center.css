@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main__center{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 150px;
+}
+.main__center__catigoria{
+    margin-top: 40px;
+}
